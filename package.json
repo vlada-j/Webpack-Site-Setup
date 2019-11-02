@@ -4,11 +4,11 @@
   "description": "Webpack setup for front-end development of simple website",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/vlada-j/Webpack-Site-Setup"
+    "url": "git+ssh://git@github.com:vlada-j/Webpack-Site-Setup.git"
   },
   "author": "Vlada Janošević (vladajanosevic@gmail.com)",
   "license": "MIT",
-  "homepage": "https://gitlab.com/vlada-j/Webpack-Site-Setup#readme",
+  "homepage": "https://github.com/vlada-j/Webpack-Site-Setup",
   "scripts": {
     "build": "webpack"
   },
