@@ -21,6 +21,11 @@ module.exports = [
 					sideEffects: false
 				}
 			]
+		},
+		watchOptions: {
+			ignored: /node_modules/,
+			aggregateTimeout: 300,
+			poll: 1000
 		}
 	},
 	{
@@ -45,6 +50,10 @@ module.exports = [
 					]
 				}
 			]
+		},
+		watchOptions: {
+			aggregateTimeout: 300,
+			poll: 1000
 		}
 	}
 ];

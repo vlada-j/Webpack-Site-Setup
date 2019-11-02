@@ -23,5 +23,8 @@ $ npm install
 ``` bash
 # build js and css
 npm run build
+
+# watch files (js and scss) for changes then build 
+npm run watch
 ```
 

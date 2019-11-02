@@ -10,7 +10,8 @@
   "license": "MIT",
   "homepage": "https://github.com/vlada-j/Webpack-Site-Setup",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "watch": "webpack --watch"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
