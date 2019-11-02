@@ -1,0 +1,14 @@
+@import "../shared/scss/variables";
+@import "../shared/scss/main";
+
+.home-page {
+
+	h1 {
+		color: $primary-color;
+		text-align: center;
+	}
+
+	.container {
+		background-color: rgba(0,0,0,.2);
+	}
+}

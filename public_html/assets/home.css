@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{margin:0;color:#444;background-color:#eee;text-align:center}.container{width:100%;max-width:992px;height:auto;display:block;position:relative;overflow-x:hidden;margin:auto;padding:15px;text-align:justify}.container:after{clear:both;content:'';display:block}.home-page h1{color:#6495ed;text-align:center}.home-page .container{background-color:rgba(0,0,0,0.2)}
+
